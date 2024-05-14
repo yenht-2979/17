@@ -5,6 +5,7 @@
 <?php
 echo "My first PHP script1!";
 echo "My first PHP script1!";
+echo "My first PHP script1!";
 ?>
 
 </body>
